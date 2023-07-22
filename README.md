@@ -8,5 +8,4 @@ This repository contains a machine learning model designed to categorize ECG dat
 4. Evaluate the model's performance and accuracy in detecting different types of atrial fibrillation.
 
 **Results**
-
 The ECG-based Atrial Fibrillation Detection model demonstrates effective categorization of ECG signals into four distinct types, corresponding to different patterns of atrial fibrillation. The utilization of Convolutional Layers allows the model to learn relevant features from the raw ECG data, while the Dense Layers aid in making accurate classifications. The model's performance is evaluated using appropriate metrics to gauge its accuracy and reliability in real-world scenarios.
