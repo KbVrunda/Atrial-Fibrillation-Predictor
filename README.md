@@ -1,4 +1,4 @@
-# Machine-Learning
+# Atrial-Fibrillation-Predictor
 This repository contains a machine learning model designed to categorize ECG data and detect atrial fibrillation (AFib). The model utilizes TensorFlow, Convolutional Layers, Keras, and Numpy to analyze electrocardiogram (ECG) signals and classify them into four different categories.
 
 **Usage**
