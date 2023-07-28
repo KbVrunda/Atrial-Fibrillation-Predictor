@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The data used in this project are anonymized ECG readings from real-world patients. These data were collected and shared by [XYZ Medical Center](#). Please note that all data used for this project have been completely anonymized in accordance with HIPAA guidelines.
+The data used in this project are anonymized ECG readings from real-world patients. These data were collected and shared by [Everglades Hematology Oncology](#). Please note that all data used for this project have been completely anonymized in accordance with HIPAA guidelines.
 
 The dataset includes the following features:
 
